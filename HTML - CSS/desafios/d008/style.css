@@ -1,51 +1,5 @@
 
 body {
-    background-color: black;
-}
-h1 {
-    text-align: center;
-    font: arial;
-    color: white;
-}
-.imagens {
-    text-align: center;
-}
-.imagens1 {
-    text-align: center;
-}
-.video1 {
-    text-align: center;
-    background-color: black;
-}
-.video2 {
-    text-align: center;
-    background-color: black;
-}
-.video3 {
-    text-align: center;
-    background-color: black;
-}
-.video4 {
-    text-align: center;
-    background-color: black;
-}
-.curso1 {
-    color: white;
-    font: arial;
-}
-.curso2 {
-    color: white;
-    font: arial;
-}
-.curso3 {
-    color: white;
-    font: arial;
-}
-.curso4 {
-    color: white;
-    font: arial;
-
-}
-.voltar {
- text-align: center;
+    color: rgb(130, 130, 130);
+    background-color: rgb(44, 41, 41);
 }
