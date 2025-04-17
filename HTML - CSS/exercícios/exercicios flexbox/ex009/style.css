@@ -9,29 +9,10 @@
     background-color: lightblue;
     display: flex;
     flex-flow: row wrap;
-    align-items: flex-start;
-    height: 400px;
 }
 .item {
     background-color: lightpink;
     border: 1px solid black;
-    padding: 16px;
-}
-#i1{
-
-}
-#i2{
-
-}
-#i3{
-    
-}
-#i4{
-
-}
-#i5{
-
-    }
-#i6{
-
+    text-align: center;
+    flex-basis: 150px;
 }
