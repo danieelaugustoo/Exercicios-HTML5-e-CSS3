@@ -8,9 +8,22 @@
 .conteiner {
     background-color: lightblue;
     display: flex;
+    flex-flow: row nowrap;
 }
 .item {
     background-color: lightpink;
-    text-align: center;
     border: 1px solid black;
+    text-align: center;
+    flex-basis: 300px;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+.item1 {
+    flex-grow: 0;
+}
+.item2 {
+    flex-grow: 1;
+}
+.item3 {
+    flex-grow: 2;
 }
